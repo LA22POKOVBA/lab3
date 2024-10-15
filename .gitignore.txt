@@ -1,5 +1,0 @@
-# JetBrains IDE
-. idea/
-venv
-log
-*.log
